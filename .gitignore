@@ -3,6 +3,13 @@ __pycache__/
 *.py[cod]
 *$py.class
 
+# wandb log
+wandb/
+
+# This time, .py files are created just to use Hugging Face Accelerate.
+# Everything should be written in notebooks
+*.py
+
 # C extensions
 *.so
 
