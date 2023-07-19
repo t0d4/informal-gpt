@@ -6,6 +6,9 @@ __pycache__/
 # wandb log
 wandb/
 
+# model checkpoints
+checkpoints/
+
 # This time, .py files are created just to use Hugging Face Accelerate.
 # Everything should be written in notebooks
 *.py
